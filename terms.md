@@ -113,7 +113,7 @@ If any provision of these Terms is found unenforceable, the remaining provisions
 
 For questions about these Terms, contact us at:
 
-**Email**: support@thriftapp.com
+**Email**: contact@tabcreative.studio
 
 ---
 
