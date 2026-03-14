@@ -28,11 +28,12 @@ You may sign in using email/password, Apple ID, or Google account.
 ## 4. Subscription and Payments
 
 ### Free Features
-- Basic app access with daily scan limits (100 scans per day)
+- Thrift store map access
 
-### Premium Subscription
-- Unlimited scans
-- Full map access
+### Premium Subscription (Thrift Pro)
+- Unlimited scans with AI-powered price estimates
+- Full map access with fire picks and Goodwill Bins locations
+- Build and track your closet's value
 - Additional features as described in the App
 
 Subscriptions are billed through Apple's App Store. By subscribing, you agree to Apple's terms for in-app purchases. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
