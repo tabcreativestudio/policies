@@ -12,10 +12,13 @@ Thrift ("we," "our," or "us") is committed to protecting your privacy. This Priv
 
 ### Information Collected Automatically
 - **Location Data**: With your permission, we collect your location to show nearby thrift stores. This data is used only while the app is in use and is not stored on our servers.
-- **Usage Data**: We track scan counts to enforce daily limits and improve our service.
+- **Usage Data**: We track scan counts to improve our service.
 
 ### Camera Access
 We request camera access solely to photograph clothing items for scanning and identification. Photos are processed to provide price estimates and are not stored permanently on our servers.
+
+### Photo Library Access
+With your permission, the app can save scanned item photos to your device's photo library. This is used solely to help you create resale listings on platforms like Depop and eBay. We do not access or read your existing photo library.
 
 ## How We Use Your Information
 
@@ -23,7 +26,6 @@ We use your information to:
 - Provide and improve our clothing identification and pricing service
 - Find and display thrift stores near your location
 - Manage your account and subscription
-- Enforce usage limits (100 scans per day)
 - Communicate with you about your account or the service
 
 ## Third-Party Services
@@ -43,7 +45,7 @@ Search queries generated from scans may be used to find comparable listings on e
 ## Data Storage and Security
 
 - Account data is stored securely using Firebase/Google Cloud
-- Scan count data is retained for 30 days then deleted
+- Scan usage data is retained for service improvement and may be periodically deleted
 - We do not sell your personal information to third parties
 - We implement industry-standard security measures to protect your data
 
